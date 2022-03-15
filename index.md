@@ -8,6 +8,6 @@ Cíl je tedy jasný. Nezbývá než k němu směřovat a dotáhnout vše do konc
 
 zjistit co nejvíc o vývoji archlinuxu:
 
-**Bold** and _Italic_ and `Code` Sesshomaru flies on [Link](https://garudalinux.org/downloads.html)Garuda i3WM
+**Bold** and _Italic_ and `Code` Sesshomaru flies on [Garuda i3WM](https://garudalinux.org/downloads.html)
 
 
