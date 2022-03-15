@@ -6,7 +6,7 @@ Cíl je tedy jasný. Nezbývá než k němu směřovat a dotáhnout vše do konc
 
 ### První úkol
 
-zjistit co nejvíc o vývoji archlinuxu:
+zjistit co nejvíc o vývoji archlinuxu:[^note]
 
 **Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
 
