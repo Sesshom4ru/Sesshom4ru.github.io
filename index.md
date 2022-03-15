@@ -17,7 +17,6 @@ Pro instalaci balíčků používá program Pacman, který balíčky instaluje z
 
 [^1]: **Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
 
-[^2]: **Rolling relase** znamená "postupně uvolňovaná". Nevychází najednou v konkretní plánované datum, ale aktualizuje se neustále. (zároveň tato platforma přináší
-určitá uskalí, se kterými se dá vypořádat)
+[^2]: **Rolling relase** znamená "postupně uvolňovaná". Nevychází najednou v konkretní plánované datum, ale aktualizuje se neustále. (zároveň tato platforma přináší určitá uskalí)
 
 
