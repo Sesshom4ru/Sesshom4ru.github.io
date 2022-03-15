@@ -8,7 +8,6 @@ Cíl je tedy jasný. Nezbývá než k němu směřovat a dotáhnout vše do konc
 
 zjistit co nejvíc o vývoji archlinuxu:
 
-[^1]:
-**Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
+[^1]:**Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
 
 
