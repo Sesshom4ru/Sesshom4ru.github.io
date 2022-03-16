@@ -4,7 +4,7 @@ Archlinux je super. To je jeden z hlavních důvodů tohoto projektu. Obyčejný
 
 **Cíl je tedy jasný. Nezbývá než k němu směřovat a dotáhnout vše do konce!**
 
-###archlinux:
+### archlinux:
 
 64bitová **rolling relase**[^2] distribuce, která klade důraz především na jednoduchost a přímočarost uživatelského prostředí.
 Pro instalaci balíčků používá program Pacman, který balíčky instaluje z repozitářů, které se dělí na oficialní databázy a AUR (arch user repo.)
