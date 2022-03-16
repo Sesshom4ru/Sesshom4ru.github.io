@@ -12,8 +12,9 @@ Pro instalaci balíčků používá program Pacman, který balíčky instaluje z
 2. [extra]
 3. [community]
 4. [multilib]
-5. [chaotic-aur]
-6. and [other custom]
+5. [test]
+6. [chaotic-aur]
+7. and [other custom]
 
 [^1]: **Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
 
