@@ -13,8 +13,11 @@ Pro instalaci balíčků používá program Pacman, který balíčky instaluje z
 3. [community]
 4. [multilib]
 5. [test]
-6. [chaotic-aur]
+6. [chaotic-aur] 
 7. and [other custom]
+
+# init
+Program v unixových systémech. Je spuštěn jako první proces a následně spouští další procesy. Běží neustále na pozadí jako démon.
 
 [^1]: **Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
 
