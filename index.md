@@ -1,4 +1,4 @@
-## Sesshomaru[^1]'s code
+# Sesshomaru[^1]'s code
 
 Archlinux je super. To je jeden z hlavních důvodů tohoto projektu. Obyčejný dělník který pracuje v nákladní dopravě na dráze a pochopí chod systému archlinux na co nejlepší úrovni! Naučí se psát scripty, modifikovat prostředí linuxu a programovat v Pythonu.
 
@@ -16,7 +16,7 @@ Pro instalaci balíčků používá program Pacman, který balíčky instaluje z
 6. [chaotic-aur] 
 7. and [other custom]
 
-# init
+### init
 Program v unixových systémech. Je spuštěn jako první proces a následně spouští další procesy. Běží neustále na pozadí jako démon.
 
 [^1]: **Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
