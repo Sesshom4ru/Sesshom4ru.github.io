@@ -19,6 +19,16 @@ Pro instalaci balíčků používá program Pacman, který balíčky instaluje z
 ### init
 Program v unixových systémech. Je spuštěn jako první proces a následně spouští další procesy. Běží neustále na pozadí jako démon.
 
+### Bash sriptS:
+
+## separators:
+1. ; - provede první příkaz, následně druhý
+      `ls -a /home/sesshom4ru/Documents ; cd ~/Documents`
+2.
+3.
+4.
+
+
 [^1]: **Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
 
 [^2]: **Rolling relase** znamená "postupně uvolňovaná". Nevychází najednou v konkretní plánované datum, ale aktualizuje se neustále. (zároveň tato platforma přináší určitá uskalí)
