@@ -19,9 +19,11 @@ Pro instalaci balíčků používá program Pacman, který balíčky instaluje z
 ### init
 Program v unixových systémech. Je spuštěn jako první proces a následně spouští další procesy. Běží neustále na pozadí jako démon.
 
-##### Bash sriptS:
+<!-- poznámky k bash scriptování -->
 
-## separators:
+### Bash sk1llS:
+
+###### _separators:_
 1. ; - provede první příkaz, následně druhý
       
       ```
@@ -31,6 +33,9 @@ Program v unixových systémech. Je spuštěn jako první proces a následně sp
 2. && - provede první příkaz, druhý příkaz provede pokud projde první příkaz
 3. || - funguje naopak než &&, provede druhý příkaz pouze když první příkaz neprojde
 4. &  - _u tohoto separátoru si nejsem jistý, ale vypadá to že:_ narozdíl od předchozích třech spustí oba příkazy najednou a vypíše číslo procesu u prvního příkazu 
+
+
+<!-- vysv2tlivky pod 4arou -->
 
 [^1]: **Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
 
