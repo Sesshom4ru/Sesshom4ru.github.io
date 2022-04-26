@@ -37,7 +37,28 @@ Program v unixových systémech. Je spuštěn jako první proces a následně sp
 
 <!-- vysv2tlivky pod 4arou -->
 
-[^1]: **Sesshomaru** flies on [_Garuda i3WM_](https://garudalinux.org/downloads.html)
+[^1]: **Sesshomaru** used ArchLinux + Qtile http://www.qtile.org/
+
+<body>
+  <!-- solid style -->
+  <i class="fa-solid fa-user"></i>
+
+  <!-- regular style -->
+  <i class="fa-regular fa-user"></i>
+
+  <!-- light style -->
+  <i class="fa-light fa-user"></i>
+
+  <!-- duotone style -->
+  <i class="fa-duotone fa-user"></i>
+
+  <!-- all new thin style -->
+  <i class="fa-thin fa-user"></i>
+
+  <!--brand icon-->
+  <i class="fa-brands fa-github-square"></i>
+</body>
+
 
 [^2]: **Rolling relase** znamená "postupně uvolňovaná". Nevychází najednou v konkretní plánované datum, ale aktualizuje se neustále. (zároveň tato platforma přináší určitá uskalí)
 
