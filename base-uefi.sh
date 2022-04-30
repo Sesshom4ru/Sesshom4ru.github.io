@@ -1,5 +1,10 @@
 #!/bin/bash
 
+
+#######                            #######
+# THIS SCRIPT WROTE Ermanno from EFLINUX #
+#######                            #######
+
 ln -sf /usr/share/zoneinfo/Europe/Prague /etc/localtime
 hwclock --systohc
 sed -i '178s/.//' /etc/locale.gen
@@ -40,7 +45,7 @@ useradd -m sesshom4ru
 echo sesshom4ru: | chpasswd
 usermod -aG libvirt sesshom4ru
 
-echo "sesshom4ru ALL=(ALL) ALL" >> /etc/sudoers.d/ermanno
+echo "sesshom4ru ALL=(ALL) ALL" >> /etc/sudoers.d/sesshom4ru
 
 
 printf "\e[1;32mDone! Type exit, umount -a and reboot.\e[0m"
